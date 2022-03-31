@@ -21,3 +21,4 @@ for i in range(50):
         print("짝짝", end = ' ')
 
 
+임영기 굳
